@@ -51,9 +51,9 @@
 
 ## Thanks!
 
-James Churchill
-Treehouse: https://teamtreehouse.com/jameschurchill
-Twitter: @SmashDev
-GitHub: smashdevcode
+* James Churchill
+* Treehouse: https://teamtreehouse.com/jameschurchill
+* Twitter: @SmashDev
+* GitHub: smashdevcode
 
 [https://github.com/smashdevcode/tech-academy-introduction-to-typescript](https://github.com/smashdevcode/tech-academy-introduction-to-typescript)
