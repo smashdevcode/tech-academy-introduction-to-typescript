@@ -4,6 +4,9 @@
 ## What is JavaScript?
 
 * Who has done JavaScript development?
+* Who has done TypeScript development?
+ * Who's used VS Code to do JS development?
+ * VS Code leverages TypeScript to make JS dev a great experience
 * Programming language of the web
  * Runs just about anywhere
  * Browser
