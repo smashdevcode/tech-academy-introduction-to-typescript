@@ -1,15 +1,27 @@
 
 # Presentation
 
+## What is JavaScript?
+
+* Who has done JavaScript development?
+* Programming language of the web
+ * Runs just about anywhere
+ * Browser
+ * Node.js
+* JavaScript is an interpreted language
+ * JavaScript isn't compiled
+ * Instead it's evaluated and executed at runtime
+
 ## C# vs JavaScript
 
 * Who has done C#/.NET development?
-* Who has done JavaScript development?
 * If you compare C# and JavaScript...
  * What are some of the things that you like about C#?
  * What are some of the things that you like about JavaScript?
  * What are some of the things that you don't like about C#?
  * What are some of the things that you don't like about JavaScript?
+
+[Top 10 JavaScript Traps for a C# Developer](http://prasadhonrao.com/top-10-javascript-traps-for-a-csharp-developer/)
 
 ## Static vs Dynamic Typing
 
@@ -17,6 +29,25 @@
 * What is the difference between static and dynamic typing?
 
 "Dynamically typed languages are generally interpreted, thus type checking (if any) happens at run time when they are used. A programming language is said to use static typing when type checking is performed during compile-time as opposed to run-time. In static typing, types are associated with variables not values." - Wikipedia
+
+## Demo - JavaScript
+
+* Type system
+ * Primitive types
+  * Boolean
+  * Null
+  * Undefined
+  * Number
+  * String
+  * Symbol (new in ECMAScript 6)
+ * Object
+ * Standard Objects
+  * Date
+  * Array
+ * Dynamic typing
+* Control structures
+* Classes
+* Function level scoping
 
 ## What is TypeScript?
 
