@@ -1,1 +1,4 @@
-# tech-academy-introduction-to-typescript
+
+# The Tech Academy
+
+## Introduction to TypeScript
